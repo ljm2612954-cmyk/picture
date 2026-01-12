@@ -1,0 +1,8 @@
+
+{
+  "name": "ProPhoto Resume - AI 전문 증명사진 변환",
+  "description": "업로드한 사진을 인공지능이 분석하여 취업 이력서에 바로 사용할 수 있는 전문 스튜디오 스타일의 증명사진으로 변환해줍니다. 정장 착용, 배경 합성, 조명 개선 기능이 포함되어 있습니다.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
